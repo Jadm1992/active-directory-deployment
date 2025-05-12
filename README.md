@@ -8,9 +8,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Prerequisites</h2>
 
-- [Creating Virtual Machines in the Cloud](https://github.com/joshuaheck1/VM-creation)
+- [Creating Virtual Machines in the Cloud](https://github.com/Jadm1992/AzureProject)
   
-- [Create Active Directory Infrastructure in Azure](https://github.com/joshuaheck1/create-ad-infrastructure)
+- [Create Active Directory Infrastructure in Azure](https://github.com/Jadm1992/Create-Active-Directory-Infrastructure-in-Azure)
 
 <h2>Environments and Technologies Used</h2>
 
